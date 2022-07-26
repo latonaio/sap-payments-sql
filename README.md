@@ -1,5 +1,4 @@
 # sap-payments-sql
-
 sap-payments-sql は、主にエッジアプリケーションにおいて、SAPと連携された支払データを保存するSQLテーブルを作成するためのレポジトリです。  
 sap-payments-sql は、そのままクラウド環境におけるアプリケーションにも、適用可能です。  
 
